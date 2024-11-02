@@ -21,7 +21,7 @@ I specialize in **Web Development**, contributing to open-source projects, and a
 - Launched a high-impact marketing campaign that improved client retention by **30%**.
 - Improved productivity by **25%** through streamlining operations and optimizing resource allocation.
 
-### Web Developer | Freelancing | *08/2023 – Present*
+### Web Developer | Freelancing | *08/2020 – Present*
 - Developed responsive, user-friendly websites and e-commerce platforms with custom features.
 - Focused on writing **clean, optimized code** to ensure **high performance** and security.
 - Contributed to open-source projects, staying updated with the latest technologies in web development.
