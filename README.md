@@ -10,6 +10,13 @@ My core focus is replacing expensive SaaS subscriptions with custom, self-hosted
 
 ---
 
+## System Architecture & Workflow Logic
+
+
+The systems I build are designed for high availability and minimal overhead. I prioritize self-hosted environments that offer full data ownership and zero per-task costs.
+
+---
+
 ## Core Technical Stack
 
 ### Web Development
@@ -26,19 +33,20 @@ My core focus is replacing expensive SaaS subscriptions with custom, self-hosted
 
 ---
 
-## Professional Statistics
-| Activity | Insight |
+## Technical Impact & Statistics
+| Metric | Performance Data |
 | :--- | :--- |
-| **Experience** | 5+ Years in Full Stack & Systems Design |
-| **Project Delivery** | 50+ Scalable Web Solutions |
-| **Efficiency Impact** | Average 70% reduction in manual data tasks |
-| **Core Strengths** | API Integration, Web Scraping, AI Workflows |
+| **Industry Experience** | 5+ Years in Full Stack & Systems Design |
+| **Successful Deployments** | 50+ Scalable Web Solutions |
+| **Operational Efficiency** | Average 70% reduction in manual data tasks |
+| **Revenue Optimization** | Orchestrated systems for $1M+ annual revenue ops |
 
 ---
 
-## GitHub Performance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=false&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+## GitHub Development Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifullahshaukat&show_icons=false&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahshaukat&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
@@ -55,7 +63,7 @@ My core focus is replacing expensive SaaS subscriptions with custom, self-hosted
 
 ---
 
-## Professional Experience Highlights
+## Professional History
 
 **Project Manager | Lead4s LLC**
 * Directed technical strategy for systems driving $1M+ annual revenue.
@@ -67,10 +75,8 @@ My core focus is replacing expensive SaaS subscriptions with custom, self-hosted
 
 ---
 
-## Contact & Links
-* **Upwork:** [View Professional Profile](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
-* **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-* **Email:** YOUR_EMAIL@DOMAIN.COM
+## Contact & Professional Links
+* **Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
 
 ---
-> Focused on building scalable, maintainable systems that drive measurable business growth.
+> Focus: Building scalable, maintainable systems that drive measurable business growth.
