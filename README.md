@@ -41,13 +41,13 @@ Core competency includes replacing high-cost SaaS platforms with dedicated, self
 ## GitHub Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saifullahshaukat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saifullahshaukat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=saifullahshaukat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=saifullahshaukat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullahshaukat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
+
 
 ---
 
