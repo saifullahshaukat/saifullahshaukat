@@ -1,0 +1,6 @@
+# local only: prep_photo.py + make_ascii_svg.py (rembg downloads a ~1 GB model on first run)
+-r requirements.txt
+pillow==12.3.0
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+rembg[cpu]==2.0.85
